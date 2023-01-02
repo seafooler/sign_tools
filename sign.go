@@ -1,4 +1,4 @@
-package threshold_sign
+package sign_tools
 
 import (
 	"bytes"
