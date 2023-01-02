@@ -1,4 +1,4 @@
-module sign_tools
+module github.com/seafooler/sign_tools
 
 go 1.16
 
